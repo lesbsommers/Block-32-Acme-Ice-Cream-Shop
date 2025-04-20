@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"name": "Vanilla Bean",
+		"description": "Classic and creamy",
+		"isavailable": true,
+		"price": 4.25,
+		"popularityscore": 9
+	},
+	{
+		"id": 2,
+		"name": "Chocolate Fudge",
+		"description": "Rich chocolate with fudge swirls",
+		"isavailable": true,
+		"price": 4.75,
+		"popularityscore": 8.5
+	},
+	{
+		"id": 3,
+		"name": "Strawberry",
+		"description": "Made with real strawberries",
+		"isavailable": true,
+		"price": 4.6,
+		"popularityscore": 8.7
+	},
+	{
+		"id": 5,
+		"name": "Salted Caramel",
+		"description": "Sweet caramel with a salty kick",
+		"isavailable": true,
+		"price": 6,
+		"popularityscore": 10
+	},
+	{
+		"id": 6,
+		"name": "Pistachio",
+		"description": "Nutty and smooth",
+		"isavailable": false,
+		"price": 4.25,
+		"popularityscore": 7
+	},
+	{
+		"id": 7,
+		"name": "Cookies & Cream",
+		"description": "Vanilla with cookie chunks",
+		"isavailable": true,
+		"price": 5.25,
+		"popularityscore": 7
+	},
+	{
+		"id": 8,
+		"name": "Toasted Almond",
+		"description": "Vanilla with toasted almonds",
+		"isavailable": true,
+		"price": 5.5,
+		"popularityscore": 10
+	},
+	{
+		"id": 10,
+		"name": "Coconut Chip",
+		"description": "Coconut with vanilla and chocolate chips",
+		"isavailable": true,
+		"price": 4.5,
+		"popularityscore": 8
+	}
+]
